@@ -45,11 +45,11 @@ Research is increasingly dependent on computational support and yet there are st
 
 ## Examples of Library Services implementing the FAIR principles
 
-  * If your local data repository shares metadata with other aggregators, it's F for Findable.
-  * If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
-  * If you r institution mints DOIs for research datasets... that's A for Accessible.
-  * If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
-  * If you provide advice and consultation services for choosing licences for research data, that's R for Reusable
+* If your local data repository shares metadata with other aggregators, it's F for Findable.
+* If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
+* If you r institution mints DOIs for research datasets... that's A for Accessible.
+* If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
+* If you provide advice and consultation services for choosing licences for research data, that's R for Reusable
 
 ## Further reading following this lesson
 
@@ -62,7 +62,7 @@ https://github.com/FAIR-Data-EG/Action-Plan
 
 ## How does “FAIR” translate to your institution or workplace?
 
-Group exercise
+Group exercise:
 Use an etherpad / whiteboard
 
 * Does your institutional data management policy refer to FAIR principles?
@@ -71,4 +71,4 @@ Use an etherpad / whiteboard
 
 * Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
 
-* Use the [FAIR data self assessment tool] (https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
+* Use the [FAIR data self assessment tool](https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
